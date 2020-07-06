@@ -24,7 +24,6 @@ public class Consumer4topic {
         //3. 通过链接对象创建channel
         Channel channel = conn.createChannel();
 
-
         // 声明队列
         /*
         * 第一个参数表示队列名称
