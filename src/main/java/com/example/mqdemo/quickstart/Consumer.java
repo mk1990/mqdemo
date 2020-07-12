@@ -53,5 +53,9 @@ public class Consumer {
             System.out.println("消费端：" + message);
         }
 
+
+        //新版本：
+
+
     }
 }
